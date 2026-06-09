@@ -1,6 +1,6 @@
 # Privacy
 
-## mobile privacy
+## Mobile Privacy
 
 What is an Advertising ID		[https://stateofsurveillance.org/news/ice-ad-tech-location-data-surveillance-2026/](https://stateofsurveillance.org/news/ice-ad-tech-location-data-surveillance-2026/)			
 
