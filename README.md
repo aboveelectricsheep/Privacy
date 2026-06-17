@@ -20,6 +20,8 @@ Local Send - airdop alternative		https://localsend.org/
 
 Android Exif Eraser		https://play.google.com/store/apps/details?id=com.none.tom.exiferaser&hl=en-US&pli=1
 
+GrapheneOS		https://grapheneos.org/
+
 ## Computer Privacy
 
 Duck Duck Go browser		https://duckduckgo.com/								
@@ -30,8 +32,12 @@ Proton VPN		https://protonvpn.com/
 																										
 Turn Siri off		https://support.apple.com/guide/mac-help/turn-on-and-activate-siri-mchlb66b4ad6/26/mac/26								
 											
-Apple firewall		https://objective-see.org/products/lulu.html								
+Apple firewall		https://objective-see.org/products/lulu.html	
 											
 MacOS security		https://www.zdnet.com/article/5-simple-things-you-should-do-to-make-macos-more-secure/								
 																						
 Disk Encryption		https://veracrypt.io/en/Downloads.html								
+
+Ubuntu		https://ubuntu.com/desktop
+
+Zorin OS		https://help.zorin.com/docs/getting-started/install-zorin-os/
