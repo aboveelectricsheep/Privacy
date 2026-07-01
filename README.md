@@ -1,5 +1,11 @@
 # Privacy
 
+## Why Any of this Matters
+
+https://www.theregister.com/on-prem/2022/09/16/us-cbp-extracts-data-from-phones-for-searchable-database/1078098
+
+https://www.404media.co/inside-ices-tool-to-monitor-phones-in-entire-neighborhoods/
+
 ## Mobile Privacy
 
 ### Settings
@@ -12,10 +18,10 @@ Android Advertising ID		https://ssd.eff.org/module/how-to-get-to-know-android-pr
 Apple USB restricted mode		https://support.apple.com/en-us/111806								
 											
 Android USB restricted mode		https://screenrant.com/how-change-usb-settings-android/								
-											
-Android Privacy/Security Checklist		https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings								
-											
+																						
 Apple Privacy/Security Checklist		https://ssd.eff.org/module/how-to-get-to-know-iphone-privacy-and-security-settings		
+
+Android Privacy/Security Checklist		https://ssd.eff.org/module/how-to-get-to-know-android-privacy-and-security-settings								
 
 ### Apps
 Local Send - airdop alternative		https://localsend.org/	
@@ -25,6 +31,8 @@ Android Exif Eraser		https://play.google.com/store/apps/details?id=com.none.tom.
 Mullvad VPN		https://mullvad.net/en								
 											
 Proton VPN		https://protonvpn.com/		
+
+Snapsafe camera app		https://snapsafe.org/
 
 ### Alternate OS options
 GrapheneOS		https://grapheneos.org/
@@ -47,7 +55,9 @@ Apple firewall		https://objective-see.org/products/lulu.html
 																										
 Turn Siri off		https://support.apple.com/guide/mac-help/turn-on-and-activate-siri-mchlb66b4ad6/26/mac/26								
 																						
-MacOS security		https://www.zdnet.com/article/5-simple-things-you-should-do-to-make-macos-more-secure/								
+MacOS security		https://www.zdnet.com/article/5-simple-things-you-should-do-to-make-macos-more-secure/	
+
+Windows security		Just install linux already, encrypt everything and turn your computer off
 																						
 ### Alternate OS options							
 
